@@ -1,0 +1,3 @@
+To use the currency converter, simply run the program and enter the amount, from currency, and to currency when prompted. The program will then retrieve the latest exchange rates from the OpenExchangeRates API and convert the amount accordingly. The result will be displayed in the console.
+
+Note: You will need to sign up for an API key from OpenExchangeRates and replace "YOUR_API_KEY_HERE" in the code with your actual API key.
